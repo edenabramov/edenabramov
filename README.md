@@ -15,7 +15,7 @@ My journey in data analysis is fueled by a great passion to turn numbers into me
 - 🐍 Python
 - 📊 Excel
 - 💾 SQL
-- 📈 table
+- 📈 Tableau
 - 📉 Power BI
 
 I am always eager to collaborate on projects that challenge my skills and allow me to grow. Feel free to reach out for collaborations or any exciting opportunities in the field of data analysis.
